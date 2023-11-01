@@ -1,0 +1,5 @@
+Exact Tour: 1 4 3 5 2 1 
+exact_tour_length = 507
+Approx Tour: 1 3 5 2 4 1 
+approx_tour_length = 507
+ratio = 1.000000
